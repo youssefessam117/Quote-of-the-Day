@@ -1,0 +1,12 @@
+body{
+    background-color: rebeccapurple;
+    color: #fff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-size: 80px;
+    font-weight: 700;
+}
+button:hover{
+    background-color: black !important;
+}
